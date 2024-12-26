@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 💻 I love building scalable apps, diving deep into new technologies, and solving complex problems.<br><br>🎯 What I'm working on:<br>✨Full-stack web apps<br>✨Cross-platform mobile solutions<br>✨Automating workflows with DevOps<br><br>💀once fixed a bug at 2 AM and still celebrated with pizza<br><br>🌟 Let’s connect and collaborate on something awesome!
 
 
